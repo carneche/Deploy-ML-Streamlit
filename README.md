@@ -12,5 +12,7 @@ Les différentes nécaissaires pour lancer cette application :
 ## Pour lancer cette applicaton : 
 
 1- Se placer dans le dossier où le fichier "Streamlit_app"
+
 2- En ligne de commande, lancer Streamlit run Streamlit_app.py
+
 3- L'application va automatiquement se lancer dans le navigateur web
